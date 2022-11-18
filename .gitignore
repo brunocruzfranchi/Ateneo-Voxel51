@@ -1,2 +1,4 @@
-/models/xresnet34-malaria.pth
-/datasets/
+/models/
+/datasets/cell_images/
+/datasets/dataset/
+evaluate_classifications.ipynb
